@@ -5,8 +5,11 @@
 
 
 everforest
+
 https://addons.mozilla.org/en-GB/firefox/addon/everforest-dark-medium-theme/ 
+
 ```brings back the "brave broswer" home page / new tab page```
+
 https://github.com/maxhu08/mtab 
 
 

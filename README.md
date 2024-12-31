@@ -4,6 +4,17 @@
 ![New Project1](https://github.com/user-attachments/assets/8c1baf52-e7cb-4928-b1f5-89c134bdc81e)
 
 
+everforest
+https://addons.mozilla.org/en-GB/firefox/addon/everforest-dark-medium-theme/ 
+```brings back the "brave broswer" home page / new tab page```
+https://github.com/maxhu08/mtab 
+
+
+https://www.gnome-look.org/p/1695467 ```Everforest-Dark-Medium-B-MB```
+
+https://github.com/pop-os/cosmic-icons ```Cosmic ; customize ~/.config/polybar/scripts/styles.sh to change```
+
+
 MOVE "cachysmall" to home, wallpapers to downloads, make sure inside the neofetch is named properly its very talored to me.
 
 fish_config | ```base16 eighties``` 

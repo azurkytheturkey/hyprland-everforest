@@ -4,13 +4,10 @@
 ![New Project1](https://github.com/user-attachments/assets/8c1baf52-e7cb-4928-b1f5-89c134bdc81e)
 
 
-everforest
 
-https://addons.mozilla.org/en-GB/firefox/addon/everforest-dark-medium-theme/ 
+https://addons.mozilla.org/en-GB/firefox/addon/everforest-dark-medium-theme/ ```firefox theme```
 
-```brings back the "brave broswer" home page / new tab page```
-https://github.com/maxhu08/mtab 
-
+https://github.com/maxhu08/mtab ```brings back the "brave broswer" home page / new tab page```
 
 https://www.gnome-look.org/p/1695467 ```Everforest-Dark-Medium-B-MB```
 
